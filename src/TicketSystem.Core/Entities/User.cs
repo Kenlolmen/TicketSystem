@@ -14,5 +14,13 @@ namespace TicketSystem.src.TicketSystem.Core.Entities
         JobTitle JobTitle { get; set; }
         string Email { get; set; }
 
+        public User(Initials initials, Fullname fullname, JobTitle jobTitle, string email)
+        {
+            Initials = initials;
+            Fullname = fullname;
+            JobTitle = jobTitle;
+            Email = email;
+        }
+
     }
 }

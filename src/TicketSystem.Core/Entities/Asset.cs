@@ -8,8 +8,18 @@ namespace TicketSystem.src.TicketSystem.Core.Entities
 {
     public class Asset
     {
+
         ServiceTag ServiceTag { get; set; }
+        Initials OwnerInitials { get; set; }
         Model Model { get; set; }
         AssetType Type { get; set; }
+
+        public Asset(ServiceTag serviceTag,Initials ownerInitials, Model model, AssetType type)
+        {
+            ServiceTag = serviceTag;
+            OwnerInitials = ownerInitials;
+            Model = model;
+            Type = type; 
+        }
     }
 }
