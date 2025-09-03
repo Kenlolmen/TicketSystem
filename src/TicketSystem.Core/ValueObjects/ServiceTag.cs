@@ -10,9 +10,9 @@ namespace TicketSystem.src.TicketSystem.Core.ValueObjects
         public string Value { get; }
         public ServiceTag(string value)
         {
-            if (string.IsNullOrWhiteSpace(value))
+            if (string.IsNullOrWhiteSpace(value) || value.Length < 4 || value.Length > 6)
             {
-                throw new ArgumentException("Service tag cannot be null or empty.", nameof(value));
+                throw new InvalidServiceTagException();
             }
 
             Value = value;
