@@ -3,6 +3,14 @@
 /home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/obj/Debug/net9.0/TicketSystem.Appilication.AssemblyInfoInputs.cache
 /home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/obj/Debug/net9.0/TicketSystem.Appilication.AssemblyInfo.cs
 /home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/obj/Debug/net9.0/TicketSystem.Appilication.csproj.CoreCompileInputs.cache
-/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/obj/Debug/net9.0/TicketSystem.Appilication.MvcApplicationPartsAssemblyInfo.cs
-/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/obj/Debug/net9.0/TicketSystem.Appilication.MvcApplicationPartsAssemblyInfo.cache
 /home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/obj/Debug/net9.0/TicketSystem.Appilication.sourcelink.json
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/bin/Debug/net9.0/TicketSystem.Appilication.deps.json
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/bin/Debug/net9.0/TicketSystem.Appilication.dll
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/bin/Debug/net9.0/TicketSystem.Appilication.pdb
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/bin/Debug/net9.0/TicketSystem.Core.dll
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/bin/Debug/net9.0/TicketSystem.Core.pdb
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/obj/Debug/net9.0/TicketSy.59831B07.Up2Date
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/obj/Debug/net9.0/TicketSystem.Appilication.dll
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/obj/Debug/net9.0/refint/TicketSystem.Appilication.dll
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/obj/Debug/net9.0/TicketSystem.Appilication.pdb
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Appilication/obj/Debug/net9.0/ref/TicketSystem.Appilication.dll

@@ -1,7 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using TicketSystem.src.TicketSystem.Core.Exceptions;
 
 namespace TicketSystem.src.TicketSystem.Core.ValueObjects
 {
@@ -12,7 +9,7 @@ namespace TicketSystem.src.TicketSystem.Core.ValueObjects
         {
             if (string.IsNullOrWhiteSpace(value) || value.Length < 4 || value.Length > 6)
             {
-                throw new InvalidServiceTagException();
+                throw new Exceptions.InvalidServiceTagException();
             }
 
             Value = value;

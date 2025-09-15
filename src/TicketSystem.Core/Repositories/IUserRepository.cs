@@ -1,13 +1,12 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using TicketSystem.src.TicketSystem.Core.ValueObjects;
+using TicketSystem.src.TicketSystem.Core.Entities;
 
-namespace TicketSystem.Core.Repositories
+namespace TicketSystem.src.TicketSystem.Core.Repositories
 {
     public interface IUserRepository
     {
-        Task<User?> GetByInitialsAsync(string initials);
+        Task<User> GetByInitialsAsync(Initials initials);
+        Task<User> GetAllAsync();
         Task AddAsync(User user);
         Task DeleteAsync(string initials);
     }

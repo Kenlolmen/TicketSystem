@@ -1,12 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace TicketSystem.Appilication.Exceptions
+namespace TicketSystem.src.TicketSystem.Appilication.Exceptions
 {
-    public class TicketNotFoundException
+    public class TicketNotFoundException : Exception
     {
-        
+        public TicketNotFoundException() : base("Ticket not found.") { }
     }
 }
