@@ -20,11 +20,21 @@ namespace TicketSystem.src.TicketSystem.Appilication.Commands.Handlers
         public async Task HandleAsync(AssignTicketToOwner command)
         {
             var ticket = await GetTicketAsync(command.TicketId);
+            var user = await GetUserByInitialsAsync(command.Initials);
             if (ticket is null)
+            {
                 throw new TicketNotFoundException();
+            }
+            if (user is null)
+            {
+                throw new Exceptions.UserNotFoundException(command.Initials);
+            }
+            // to be continued..
+
+
         }
 
-        private async Task<User> GetUserAsync(Initials initials)
+        private async Task<User> GetUserByInitialsAsync(Initials initials)
         {
             var user = await _userRepository.GetByInitialsAsync(initials);
             return user;

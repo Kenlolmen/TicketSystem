@@ -1,7 +1,7 @@
 using TicketSystem.src.TicketSystem.Appilication.Abstractions;
-
+using TicketSystem.src.TicketSystem.Core.ValueObjects;
 
 namespace TicketSystem.src.TicketSystem.Appilication.Commands
 {
-    public sealed record DeleteTicket(Guid TicketId): ICommand;
+    public sealed record DeleteUser(Initials Initials): ICommand;
 }

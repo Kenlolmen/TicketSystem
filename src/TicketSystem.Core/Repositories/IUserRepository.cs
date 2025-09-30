@@ -8,6 +8,6 @@ namespace TicketSystem.src.TicketSystem.Core.Repositories
         Task<User> GetByInitialsAsync(Initials initials);
         Task<User> GetAllAsync();
         Task AddAsync(User user);
-        Task DeleteAsync(string initials);
+        Task DeleteAsync(User user);
     }
 }
