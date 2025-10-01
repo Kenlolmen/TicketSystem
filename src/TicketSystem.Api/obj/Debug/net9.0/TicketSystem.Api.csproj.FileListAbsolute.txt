@@ -1,0 +1,13 @@
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/bin/Debug/net9.0/TicketSystem.Api.deps.json
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/bin/Debug/net9.0/TicketSystem.Api.dll
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/bin/Debug/net9.0/TicketSystem.Api.pdb
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/obj/Debug/net9.0/TicketSystem.Api.csproj.AssemblyReference.cache
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/obj/Debug/net9.0/TicketSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/obj/Debug/net9.0/TicketSystem.Api.AssemblyInfoInputs.cache
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/obj/Debug/net9.0/TicketSystem.Api.AssemblyInfo.cs
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/obj/Debug/net9.0/TicketSystem.Api.csproj.CoreCompileInputs.cache
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/obj/Debug/net9.0/TicketSystem.Api.sourcelink.json
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/obj/Debug/net9.0/TicketSystem.Api.dll
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/obj/Debug/net9.0/refint/TicketSystem.Api.dll
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/obj/Debug/net9.0/TicketSystem.Api.pdb
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Api/obj/Debug/net9.0/ref/TicketSystem.Api.dll

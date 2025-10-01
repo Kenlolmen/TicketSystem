@@ -1,0 +1,15 @@
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/bin/Debug/net9.0/TicketSystem.Infrastructure.deps.json
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/bin/Debug/net9.0/TicketSystem.Infrastructure.dll
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/bin/Debug/net9.0/TicketSystem.Infrastructure.pdb
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/obj/Debug/net9.0/TicketSystem.Infrastructure.csproj.AssemblyReference.cache
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/obj/Debug/net9.0/TicketSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/obj/Debug/net9.0/TicketSystem.Infrastructure.AssemblyInfoInputs.cache
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/obj/Debug/net9.0/TicketSystem.Infrastructure.AssemblyInfo.cs
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/obj/Debug/net9.0/TicketSystem.Infrastructure.csproj.CoreCompileInputs.cache
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/obj/Debug/net9.0/TicketSystem.Infrastructure.sourcelink.json
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/obj/Debug/net9.0/TicketSystem.Infrastructure.dll
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/obj/Debug/net9.0/refint/TicketSystem.Infrastructure.dll
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/obj/Debug/net9.0/TicketSystem.Infrastructure.pdb
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/obj/Debug/net9.0/ref/TicketSystem.Infrastructure.dll
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/bin/Debug/net9.0/TicketSystem.Infrastructure.runtimeconfig.json
+/home/aleksander/RiderProjects/TicketSystem/src/TicketSystem.Infrastructure/obj/Debug/net9.0/TicketSystem.Infrastructure.genruntimeconfig.cache
